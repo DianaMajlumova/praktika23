@@ -1,0 +1,16 @@
+.cardmaindiv{
+    width: 100%;
+    height: 100vh;
+  .cardsection{
+    width: 80%;
+    height: 400px;
+    display: flex;
+    .cards{
+        .card{
+            background-color: red;
+            width: 20%;
+            height: 200px;
+        }
+    }
+}  
+}
